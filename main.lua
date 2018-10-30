@@ -13,3 +13,6 @@ msgText:setFillColor( 0.2, 0.6, 0.8 )
 
 local msgText = display.newText( "Hello, world!", world.x, world.y+190, native.systemFont, 32 )
 msgText:setFillColor( 0.5, 0.5, 0.1)
+
+local msgText = display.newText( "Hello, world!", world.x, world.y+220, native.systemFont, 32 )
+msgText:setFillColor( 0.1, 0.3, 0.9)
